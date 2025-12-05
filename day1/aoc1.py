@@ -45,7 +45,6 @@ def count_zero_passes(lines):
             pos = (pos + dist) % 100
         else:
             continue
-
     return count
 
 
